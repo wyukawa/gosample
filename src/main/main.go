@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gosample"
+	"github.com/wyukawa/gosample"
 )
 
 func main() {
